@@ -1,5 +1,9 @@
 # archive_triangulator
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryanhell/archive-triangulator/main/banner.png" alt="archive_triangulator" width="600">
+</p>
+
 A forensic three-way comparison tool for documenting suspected post-hoc
 alteration of web archive records.
 
