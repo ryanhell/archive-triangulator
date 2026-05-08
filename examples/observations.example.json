@@ -1,0 +1,26 @@
+[
+  {
+    "observed_at": "2024-07-12T00:00:00Z",
+    "observer": "REPLACE_WITH_YOUR_NAME_OR_INITIALS",
+    "domain": "rivercom911.org",
+    "description": "I navigated to web.archive.org and entered the URL rivercom911.org in the Wayback Machine search. The calendar view displayed a sparse capture history with no captures in the immediate days following 2024-07-04. I observed and documented (DESCRIBE: dozens of recently-added captures clustered in early July 2024 / large gaps in prior years / etc.). I captured screenshots of the calendar view and posted them to (PLATFORM: e.g. Twitter/X, Facebook, etc.) at (POST URL).",
+    "claim": "On the date of observation, the Wayback Machine's public calendar for rivercom911.org showed a capture history materially different from what is shown today. Specifically: (LIST WHAT YOU SAW, e.g. 'no captures between 2014 and July 2024' or 'a sudden flurry of captures on July 7-10, 2024 with no captures in the prior 18 months').",
+    "evidence_uris": [
+      "REPLACE_WITH_PERMANENT_URL_OF_SOCIAL_MEDIA_POST_1",
+      "REPLACE_WITH_PERMANENT_URL_OF_SOCIAL_MEDIA_POST_2",
+      "REPLACE_WITH_WAYBACK_OR_ARCHIVE_TODAY_URL_OF_THE_ABOVE_POST"
+    ],
+    "expected_capture_dates": [
+      {
+        "date": "2024-07-04",
+        "expected_count": 0,
+        "note": "On the date of observation, no Wayback capture existed for this date."
+      },
+      {
+        "date": "2024-07-05",
+        "expected_count": 0,
+        "note": "Replace expected_count with what you actually saw on the calendar."
+      }
+    ]
+  }
+]
